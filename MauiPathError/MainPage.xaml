@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiPathError.MainPage">
+
+  <Grid BackgroundColor="White">
+    <Path Fill="Black" Aspect="Uniform">
+      <Path.Data>
+        M 12 2
+        A 2 2 0 0 0 10 4
+        A 2 2 0 0 0 10 4.29
+      </Path.Data>
+    </Path>
+  </Grid>
+
+</ContentPage>

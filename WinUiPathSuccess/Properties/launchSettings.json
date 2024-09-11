@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinUiPathSuccess (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WinUiPathSuccess (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
